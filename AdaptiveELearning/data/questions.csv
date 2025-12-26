@@ -1,0 +1,8 @@
+Basics,Q1,What is a variable?,A memory location,A loop,Decision making,Inheritance,1
+Basics,Q2,Which data type stores true/false?,int,float,boolean,char,3
+
+Loops,Q1,Which loop runs at least once?,for,while,do-while,foreach,3
+Loops,Q2,Which keyword stops a loop?,continue,break,exit,stop,2
+
+OOP,Q1,What is encapsulation?,Wrapping data and methods,Multiple inheritance,Code duplication,Compilation,1
+OOP,Q2,Which keyword is used to inherit a class?,this,super,extends,implements,3
